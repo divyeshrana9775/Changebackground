@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    background-color: #6aa0dc;
+    margin: 0 auto;
+    padding: 0;
+}
+div{
+    margin: auto;
+    width: 30%;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    color: aliceblue;
+    
+    text-align: center;
+
+}
+
+body div button {
+    margin: 276px 0px 0px 0px;
+}
